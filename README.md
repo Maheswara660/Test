@@ -1,6 +1,6 @@
 # Test Repository 🧪
 
-**Welcome to my **Test** repository! 👋**
+Welcome to my **Test** repository! 👋
 
 This repository is my personal playground for learning and experimenting with Git and GitHub. I use it to understand how repositories work and practice essential version control features.
 
