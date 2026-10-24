@@ -80,7 +80,7 @@ This is an example structure for future experiments, not a list of files that al
 
 ## 📌 Important Note
 
-This repository is primarily for practice and experimentation. Its contents may change as I learn more about Git, GitHub, and software development workflows.
+*This repository is primarily for practice and experimentation. Its contents may change as I learn more about Git, GitHub, and software development workflows.*
 
 ## 👨‍💻 Author
 
