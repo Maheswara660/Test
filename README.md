@@ -76,7 +76,7 @@ Test/
     └── sample.txt
 ```
 
-*This is an example structure for future experiments, not a list of files that already exist.*
+*This is an example structure for future experiments, not a list of files that already exist.**
 
 ## 📌 Important Note
 
