@@ -80,7 +80,7 @@ Test/
 
 ## 📌 Important Note
 
-***This repository is primarily for practice and experimentation. Its contents may change as I learn more about Git, GitHub, and software development workflows.**
+***This repository is primarily for practice and experimentation. Its contents may change as I learn more about Git, GitHub, and software development workflows.***
 
 ## 👨‍💻 Author
 
